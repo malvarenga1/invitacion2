@@ -26,14 +26,14 @@ p{
     text-align: center;
   font-size: medium;
 }
-a{
+#date2 {
+    font-family: "Press Start 2P", system-ui;
+    color: #ff0505;
+}
+a {
     font-family: "Playpen Sans", cursive;
     text-align: right;
     font-size: medium; 
-}
-#date2{
-    font-family: "Press Start 2P", system-ui;
-    color:#ff0505	
 }
 hr{
     border-color: yellow;
